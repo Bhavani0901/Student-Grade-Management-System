@@ -1,0 +1,7 @@
+
+.venv/
+__pycache__/
+*.pyc
+students.json
+student_records.csv
+report_cards/
