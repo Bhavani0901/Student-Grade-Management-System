@@ -1,5 +1,9 @@
 # Student Grade Management System
 
+## 🌐 Live Demo
+
+[Click here to use the Student Grade Management System](https://student-grade-management-system-cjkhby7tyaxymt7mwztddt.streamlit.app/)
+
 ## Project Overview
 A Python-based application for managing student academic records, marks, grades and performance reports.
 
